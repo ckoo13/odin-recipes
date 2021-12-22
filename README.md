@@ -1,1 +1,2 @@
 # odin-recipes
+//This project will be a project to build and bare bones recipe website to practice the HTML skills learned in the initial lessons of The Odin Project. By the end, I hope to have a firm grasp on the basic fundamentals of HTML to further build upon my front-end skills.
